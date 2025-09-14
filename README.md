@@ -2,6 +2,7 @@
 Santander Code Girls - 2025
 
 Resumo e comparativo sobre as funcionalidades AWS aprendidas em aula. 
+
 📦 Amazon S3 (Simple Storage Service)
 Serviço de armazenamento de objetos (arquivos, imagens, vídeos, backups).
 Escalável, seguro e com alta durabilidade (99,999999999%).
@@ -28,3 +29,8 @@ S3 = guardar arquivos/objetos.
 Lambda = rodar código sem servidor.
 EC2 = servidor virtual completo.
 EBS = disco rígido/SSD para EC2.
+
+<img width="820" height="337" alt="image" src="https://github.com/user-attachments/assets/ac690fe0-b5a6-46f7-8599-93c77b8071af" />
+
+<img width="719" height="426" alt="image" src="https://github.com/user-attachments/assets/5ea3351b-0e0e-4ee2-a2bf-5c17a3eae793" />
+
